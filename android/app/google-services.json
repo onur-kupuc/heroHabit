@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "758777300794",
+    "project_id": "herohabit-app",
+    "storage_bucket": "herohabit-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758777300794:android:e0cd220cee96fd7f893203",
+        "android_client_info": {
+          "package_name": "com.example.cocuk_gelisim_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjW5eZCZVXLynepqldO-cIWmmtgqVY3sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758777300794:android:0c5f867e051cce17893203",
+        "android_client_info": {
+          "package_name": "com.example.hero_habit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjW5eZCZVXLynepqldO-cIWmmtgqVY3sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758777300794:android:b242130ef7aa7f2b893203",
+        "android_client_info": {
+          "package_name": "com.example.super_habit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjW5eZCZVXLynepqldO-cIWmmtgqVY3sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
